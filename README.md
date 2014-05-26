@@ -19,9 +19,9 @@ fs.createReadStream(__dirname + "/fixtures/escaped_string_long")
   
 ```
 
-Sample input
+Sample File
 ```coffee
-input = "This is the first line\\\\\nThis is the second line"
+This is the first line\\\\\nThis is the second line
 ```
 
 Sample output
