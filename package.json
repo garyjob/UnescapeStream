@@ -2,7 +2,7 @@
     "author": "Gary Teh <garyjob@gmail.com>"
   , "name": "unescape-stream"
   , "main": "./unescape_stream.coffee"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "engines": {
     "node": "=0.10.28"
   }
