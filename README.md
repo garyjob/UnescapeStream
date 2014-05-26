@@ -20,11 +20,11 @@ fs.createReadStream(__dirname + "/fixtures/escaped_string_long")
 ```
 
 Sample input
-```console
+```coffee
 input = "This is the first line\\\\\nThis is the second line"
 ```
 
 Sample output
-```console
+```coffee
 output = "This is the first line\nThis is the second line"
 ```
