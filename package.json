@@ -7,4 +7,8 @@
   , "engines": {
     "node": "=0.10.28"
   }
+  , "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/garyjob/UnescapeStream"
+ }
 }
