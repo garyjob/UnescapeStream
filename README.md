@@ -2,6 +2,11 @@
 
 Remove instances of repeated escapes '\' in an arbituarily large file
 
+## Installation
+```console
+npm install unescape-stream
+```
+
 ## Usage
 ```coffee
 UnescapeStream = require "unescape-stream"
@@ -27,9 +32,4 @@ This is the first line\\\\\nThis is the second line
 Sample output
 ```coffee
 output = "This is the first line\nThis is the second line"
-```
-
-## Installation
-```console
-npm install unescape-stream
 ```
