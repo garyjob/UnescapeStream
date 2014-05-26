@@ -3,7 +3,7 @@
 Remove instances of repeated escapes '\' in an arbituarily large file
 
 ## Usage
-```Node
+```coffee
 UnescapeStream = require "unescape-stream"
 ues = new UnescapeStream()
 
