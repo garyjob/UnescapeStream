@@ -28,3 +28,8 @@ Sample output
 ```coffee
 output = "This is the first line\nThis is the second line"
 ```
+
+## Installation
+```console
+npm install unescape-stream
+```
